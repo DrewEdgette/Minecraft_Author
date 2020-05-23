@@ -10,3 +10,6 @@ Instructions to use:
 3. Open command prompt, go to script's directory and type "python author.py mytextfile.txt"
 4. Click back on Minecraft within the book and hover the mouse over the next page arrow.
 5. Once the book is filled, take out a new book and continue.
+
+
+![author.py](https://i.imgur.com/649EhbH.png)
