@@ -23,8 +23,6 @@ def main():
     page_end = 255
     book_size = 12750
 
-    page_count = 0
-
     while page_start <= len(chars):
         # take a 255 character slice of the text file and write it onto the page.
         # then move onto the next page
@@ -40,7 +38,6 @@ def main():
         # this is so we can switch books in minecraft before continuing.
         if page_end > book_size:
             book_size += 12750
-            page_count += 1
             pause = input("Press enter to continue...")
             countdown()
 
