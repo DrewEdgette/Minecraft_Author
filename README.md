@@ -12,4 +12,7 @@ Instructions to use:
 5. Once the book is filled, take out a new book and continue.
 
 
-![author.py](https://i.imgur.com/649EhbH.png)
+![author1](https://i.imgur.com/649EhbH.png)
+
+
+![author2](https://i.imgur.com/b26qr9c.png)
